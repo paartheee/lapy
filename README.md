@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/parthibanma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://parthi.vercel.app"><img src="https://img.shields.io/badge/Website-About%20Me-brightgreen"></img></a>
 
-# PyYAT
+# LAPY (Labelling tool for Python Yolo)
 Semi-Automatic Yolo Annotation Tool In Python
 
 <table>
